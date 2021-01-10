@@ -1,0 +1,17 @@
+div.copyright {
+  width: 1500px;
+  height: 50px;
+	background-color: burlywood;
+	float: left;
+}
+
+div.left {
+	float: left;
+	margin: 20px;
+
+}
+
+div.right {
+	float: right;
+	margin:20px;
+}

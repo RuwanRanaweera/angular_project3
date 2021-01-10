@@ -1,0 +1,45 @@
+.para{
+font-size: 45px;
+padding-left: 230px;
+padding-top: 150px;
+font-family: initial;
+}
+
+
+
+.back
+{
+  background-image: url('../../assets/sunset.jpg');
+width: 1500px;
+height: 1080px;
+
+}
+
+.but
+{
+padding-left: 600px;
+padding-top: 200px;
+float: left;
+}
+
+.butc{
+
+  padding-right: 600px;
+  padding-top: 200px;
+  float: right;
+
+
+}
+
+.bu {
+  background-color: #0f1122;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

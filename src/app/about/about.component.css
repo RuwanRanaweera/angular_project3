@@ -1,0 +1,24 @@
+.backimage{
+  background-image: url('../../assets/war.jpg');
+  background-size: 100%;
+  width:100%;
+  background-repeat: no-repeat;
+  float: left;
+  height: 650px;
+
+}
+
+
+.backima{
+  background-image: url('../../assets/travel.jpg');
+  width:50%;
+  float: left;
+  background-size: 100%;
+  height: 440px;
+  background-repeat: no-repeat;
+}
+
+.ru{
+width: 100%;
+
+}
